@@ -18,18 +18,6 @@
     <table align="center">
         <tr>
             <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
-            </a>
-            <br>C
-            </td>
-            <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-            </a>
-            <br>C++
-            </td>
-            <td align="center" width="96">
             <a href="https://www.javascript.com/">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
             </a>
@@ -66,14 +54,14 @@
             </a>
             <br>Docker
             </td>
-        </tr>
-        <tr>
             <td align="center" width="96"> 
             <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
             </a>
             <br>HTML5
             </td>
+        </tr>
+        <tr>
             <td align="center" width="96">
             <a href="https://ubuntu.com/" >
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
