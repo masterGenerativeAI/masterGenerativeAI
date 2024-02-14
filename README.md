@@ -2,7 +2,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&background=FF2B2D00&center=true&vCenter=true&random=true&width=435&lines=Hello;This+is+the+our+Team+Github.;We+are+Master+AI+%26+GPT" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&background=FF2B2D00&center=true&vCenter=true&random=true&width=435&lines=Hello;This+is+the+our+Team+Github.;We+are+Master+AI+%26+GPT" alt="Typing SVG" /></a>
     
 <h2 align="center">
     <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50"/> 
