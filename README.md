@@ -45,10 +45,8 @@
 <h3 align="center">
 Github Stats 🧐
 </h3>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pazindushane&theme=ads-juicy-fresh&date_format=M%20j%5B%2C%20Y%5D"/> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=masterGenerativeAI&theme=tokyonight-duo&exclude_days=Mon&card_width=556&type=png&border=050BEB&background=FFFFFF&stroke=0C0AEB&ring=8DEB76&fire=EB0000&currStreakNum=54EB0F&sideNums=14EB01"/> </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masterGenerativeAI&theme=tokyonight-duo&exclude_days=Mon&card_width=556&type=png&border=050BEB&background=FFFFFF&stroke=0C0AEB&ring=8DEB76&fire=EB0000&currStreakNum=54EB0F&sideNums=14EB01)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=masterGenerativeAI&theme=tokyonight-duo&exclude_days=Mon&card_width=556&type=png&border=050BEB&background=FFFFFF&stroke=0C0AEB&ring=8DEB76&fire=EB0000&currStreakNum=54EB0F&sideNums=14EB01" alt="GitHub Streak" /></a>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=masterGenerativeAI&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=556&type=png&border=050BEB&background=FFFFFF&stroke=0C0AEB&ring=8DEB76&fire=EB0000&currStreakNum=54EB0F&sideNums=14EB01"/> </p>
+
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pazindushane&theme=github_dark"/> </p>
 <br>
 <p> <img align="left" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
