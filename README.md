@@ -54,8 +54,6 @@ Github Stats 🧐
 </h3>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=masterGenerativeAI&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D&card_width=556&type=png&border=050BEB&background=FFFFFF&stroke=0C0AEB&ring=8DEB76&fire=EB0000&currStreakNum=54EB0F&sideNums=14EB01"/> </p>
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pazindushane&theme=github_dark"/> </p>
-
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pazindushane&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pazindushane&theme=github_dark"/>
