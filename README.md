@@ -46,6 +46,6 @@
 Github Stats 🧐
 </h3>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pazindushane&theme=ads-juicy-fresh&date_format=M%20j%5B%2C%20Y%5D"/> </p>
-<p align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=masterGenerativeAI&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&exclude_days=Sun&card_width=556" alt="GitHub Streak" /></a> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=masterGenerativeAI&theme=tokyonight-duo&hide_border=false&border_radius=4.5&locale=en&date_format=%5BY.%5Dn.j&mode=daily&exclude_days=Sun&sections=total%2Ccurrent%2Clongest&card_width=556&type=svg&background-type=solid&properties=background"/> </p>
 <br>
 <p> <img align="left" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theagentmaro&show_icons=true&locale=en&layout=compact" alt="theagentmaro" /> </p>
