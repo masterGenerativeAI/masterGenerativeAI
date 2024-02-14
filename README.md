@@ -3,7 +3,11 @@
 
 
 <div align="center">
+<<<<<<< HEAD
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=2000&color=0771F7&background=87FF6000&center=true&vCenter=true&repeat=false&random=true&width=670&lines=Hello%2C+Welcome+to+my+Github;Senior+AI+%26+GPT+%26+Frontend(React%2C+Next.js%2C+Nuxt.js%2C+Angular)" alt="Typing SVG" /></a>
+=======
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=0771F7&background=87FF6000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hello%2C+Welcome+to+my+Github;Senior+AI+%26+GPT+%26+Frontend(React%2C+Next.js%2C+Nuxt.js%2C+Angular))" alt="Typing SVG" /></a>
+>>>>>>> fcdd84525ea372ff932c73c01268bb1983528784
 </div>
     
 <h2 align="center">
