@@ -1,10 +1,11 @@
 <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /> </div>
 
-<h1 align="center"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" style="margin-top: -10px" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&background=FF2B2D00&center=true&vCenter=true&random=true&width=435&lines=We+are+Master+AI+%26+GPT;This+is+the+our+Team+Github.;Hello" alt="Typing SVG" /></a>
-</h1>
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&background=FF2B2D00&center=true&vCenter=true&random=true&width=435&lines=Hello;This+is+the+our+Team+Github.;We+are+Master+AI+%26+GPT" alt="Typing SVG" /></a>
+<h1 align="center"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" style="margin-top: -10px" />
 <h2 align="center">Stacks and Stats</h2>
+<h1 align="center"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" style="margin-top: -10px" />
 
 ###
 
