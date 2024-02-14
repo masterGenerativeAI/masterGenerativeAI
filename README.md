@@ -1,10 +1,7 @@
 <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /> </div>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I+am+a+Master+AI+and+GPT." alt="Typing SVG" /></a>
+<h1 align="center"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I+am+a+Master+AI+and+GPT." alt="Typing SVG" /></a><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50" />
 </h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theagentmaro&label=Profile%20views&color=0e75b6&style=flat" alt="theagentmaro" /> </p>
 
 <h2 align="center">Stacks and Stats</h2>
 
@@ -43,6 +40,12 @@
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazindushane&theme=chartreuse-dark&show_icons=true&locale=en" alt="pazindushane" /></p>
 
+<h3 align="center">
+Github Stats 🧐
+</h3>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pazindushane&theme=ads-juicy-fresh&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pazindushane&theme=github_dark"/> </p>
 <br>
 <p> <img align="left" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theagentmaro&show_icons=true&locale=en&layout=compact" alt="theagentmaro" /> </p>
